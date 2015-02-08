@@ -32,5 +32,9 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="D:/KOUKI/documents/GitHub/cling-distribution-2.0.1/core/cling-core-2.0.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/KOUKI/documents/GitHub/cling-distribution-2.0.1/core/seamless-http-1.1.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/KOUKI/documents/GitHub/cling-distribution-2.0.1/core/seamless-util-1.1.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/KOUKI/documents/GitHub/cling-distribution-2.0.1/core/seamless-xml-1.1.0.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
